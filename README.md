@@ -1,4 +1,4 @@
-1 Introduction to Statistics
+# 1 Introduction to Statistics
    • Population & Sample
    • Descriptive vs Inferential Statistics
    • Basic Statistical Measures
@@ -13,9 +13,9 @@
    • Central Limit Theorem
    • Hypothesis Testing
    
-<br> 
 
-Machine Learning Complete
+
+# Machine Learning Complete
 1 Introduction to Machine Learning (ML)
 2 Roadmap to Learning Machine Learning
 3 Types of Data and Variables in ML
@@ -32,7 +32,7 @@ Machine Learning Complete
    • Backward Elimination (using mixed)
    • Forward Elimination (using mixed)
 
-Supervised Learning in ML
+# Supervised Learning in ML
 1 Train Test Split in Dataset
 2 Regression Analysis:
    • Linear Regression Algorithm (Simple Linear)
@@ -41,7 +41,7 @@ Supervised Learning in ML
 3 Cost Function in Regression
 4 R Squared Score & Adjusted R Squared in Regression Analysis
 
-Classification in ML
+# Classification in ML
 1 Classification
 2 Logistic Regression:
    • Binary Classification (Practical)
@@ -52,7 +52,7 @@ Classification in ML
 4 Imbalanced Dataset Handling
 5 Naive Bayes Algorithm
 
- Non-Linear Supervised Algorithm in ML
+#  Non-Linear Supervised Algorithm in ML
 1 Non-Linear Supervised Algorithms:
    • Decision Tree (Classification)
    • Decision Tree (Regression)
@@ -61,31 +61,28 @@ Classification in ML
 3 Cross-Validation
 4 Unsupervised Learning
 
- Clustering in ML
+#  Clustering in ML
 1 Clustering
 2 K-means Clustering
 3 Hierarchical Clustering
 4 DBSCAN Clustering Algorithm
 5 Silhouette Score
 
- Association in ML
+# Association in ML
 1 Association
 2 Association Rule Learning
 3 Apriori Algorithm
 4 Frequent Pattern Growth Algorithm
 
- Ensemble Learning in ML
+# Ensemble Learning in ML
 1 Ensemble Learning
 2 Max Voting, Averaging & Weighted Average Voting
    • Practical Implementation for Regression
    • Practical Implementation for Classification
 3 Bagging (with Bagging meta-estimator and Random forest)
 
- Deep Learning & AI Complete
-1 Deep Learning Overview:
-   • Introduction to Deep Learning
-   • Neurons, Neural Networks, and Types of Deep Learning Networks
-3 Perceptrons:
+# Deep Learning basics
+ Perceptrons:
    • Single Layer Perceptron
    • Multilayer Perceptron (Artificial Neural Networks)
 3 Training Process:

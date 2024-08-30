@@ -91,3 +91,7 @@
    • Loss Functions
    • Optimizers
 4 Practical Applications
+
+
+## If there are any changes you feel you can suggest and contribute
+

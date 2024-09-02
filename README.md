@@ -92,6 +92,8 @@
    • Optimizers
 4 Practical Applications
 
+# NLP Basics
+Tokenization , Stopwords Removal ,  Stemming , Lemmatization , Word2vec , Avgword2vec , Ngrams
 
 ## If there are any changes you feel you can suggest and contribute
 
